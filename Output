@@ -1,0 +1,23 @@
+
+Enter Name :aditi
+WELCOME:aditi
+Following are the rules of the game:
+You will be given 10 chance to guess word correctly
+Type exit if not want to play
+OKAY!!!..LET'S START GAME
+You have some hint to Guess the word:--ai-
+Guess character:p
+Turn chance Remain : 9
+--ai-
+Guess character:c
+c-ai-
+Guess character:k
+Turn chance Remain : 8
+c-ai-
+Guess character:r
+c-air
+Guess character:h
+chair
+You Won!!!!
+You win Play hangman Again?n
+[Program finished]
